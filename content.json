@@ -1,0 +1,50 @@
+{
+  "data": {
+    "siteId": "ecdf19f7-471e-4c62-8119-a54fd9aba8c2",
+    "name": "goldie plumbers",
+    "phone": "0141 560 0350",
+    "address": "",
+    "headline": "Goldie Plumbers — Reliable Local Plumbing You Can Count On",
+    "aboutText": "At Goldie Plumbers, we take pride in delivering honest, quality plumbing work to homeowners and businesses across the local area. Whether it's a dripping tap keeping you up at night or a full bathroom transformation, our experienced team shows up on time and gets the job done right. Give us a call on 0141 560 0350 and find out why our customers keep coming back to Goldie.",
+    "services": [
+      {
+        "name": "Emergency Callouts",
+        "blurb": "Burst pipe or sudden leak? Goldie Plumbers offer fast emergency callouts to get your home safe and sorted as quickly as possible."
+      },
+      {
+        "name": "Boiler Repair & Installation",
+        "blurb": "From diagnosing a faulty boiler to fitting a brand new system, Goldie Plumbers keep your heating running efficiently and reliably all year round."
+      },
+      {
+        "name": "Bathroom Installation",
+        "blurb": "Goldie Plumbers handle full bathroom installations from start to finish, combining quality workmanship with tidy, professional results."
+      },
+      {
+        "name": "Leak Detection",
+        "blurb": "Hidden leaks can cause serious damage fast — Goldie Plumbers use proven methods to track down the source quickly and fix it properly the first time."
+      }
+    ],
+    "rating": 0,
+    "reviewCount": 0,
+    "contactEmail": null
+  },
+  "paletteId": "ocean-blue",
+  "templateId": "classic",
+  "images": {
+    "hero": "./images/hero.png",
+    "service1": "./images/service1.png",
+    "service2": "./images/service2.png",
+    "service3": "./images/service3.png",
+    "service4": "./images/service4.png",
+    "reviewer1": "./images/reviewer1.png",
+    "reviewer2": "./images/reviewer2.png",
+    "reviewer3": "./images/reviewer3.png",
+    "reviewer4": "./images/reviewer4.png",
+    "reviewer5": "./images/reviewer5.png"
+  },
+  "appsScriptUrl": null,
+  "siteType": "demo",
+  "backendEnabled": false,
+  "supabaseUrl": null,
+  "supabaseAnonKey": null
+}
